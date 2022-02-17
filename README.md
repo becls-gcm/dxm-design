@@ -6,7 +6,7 @@ Documentation for shared components, styles, and other stuff for DXMs
 Let's outline some sections here
 --
 
-1. Foo
+1. [Foo](components/index.md)
 2. Bar
 3. Lorem
 4. Ipsum
